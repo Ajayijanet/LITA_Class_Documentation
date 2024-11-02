@@ -22,7 +22,7 @@ This project acquires and analyses sales data across different regions,markets a
 The data set includes the following key columns
 
 - Region: The geographical location of the sales operations
-- Markert: The targeted market sector within a localized market
+- Market: The targeted market sector within a localized market
 - Store: The store from whuch sakes data originates
 - Trade Date: The date the transactions was executed
 - Fiscal Period: The quarter/period in which the trade date falls
