@@ -36,7 +36,7 @@ The data set includes the following key columns
 
   ## Project Objectives
   ---
-  This project was designedf to address the following analysis goals
+  This project was designed to address the following analysis goals
   - Average revenue by region: Calculate the average revenue per sale in each region to assess performance
   - Revenue by region: Determine the total revenue  generated in each region
   - Region by unit sold: Analyze the number of unit sold across different regions to identify the highest selling locations
@@ -55,9 +55,8 @@ The data set includes the following key columns
      ### Data visualization
        ---
     
-      ![bar chart (1)](https://github.com/user-attachments/assets/0fbd44d5-1fb7-48b1-bb40-f8e1c42d585a)
-    ![pivot table](https://github.com/user-attachments/assets/526c47b8-e8eb-4a93-af53-c32c85f3a2b5)
-
+![pivot table](https://github.com/user-attachments/assets/380dac06-9e9d-41fb-819c-f97211539e45)
+![bar chart (1)](https://github.com/user-attachments/assets/0f31a175-5dd3-4028-9284-c143312fc9c7)
 
 
      
