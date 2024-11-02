@@ -51,7 +51,15 @@ The data set includes the following key columns
       ---
       - Data Analysis: The data was analysed using Microsoft Excel, utilizing pivot tables tp organize, summarize and filter the data 
       for easier interpretation
-      - Data visualization: Bar charts was created in excel to visually reoresent the key insights
+      - Data visualization: Bar charts was created in excel to visually represent the key insights
+     ### Data visualization
+       ---
+    
+      ![bar chart (1)](https://github.com/user-attachments/assets/0fbd44d5-1fb7-48b1-bb40-f8e1c42d585a)
+    ![pivot table](https://github.com/user-attachments/assets/526c47b8-e8eb-4a93-af53-c32c85f3a2b5)
+
+
+
      
   
         
