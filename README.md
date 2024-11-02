@@ -55,8 +55,12 @@ The data set includes the following key columns
      ### Data visualization
        ---
     
-![pivot table](https://github.com/user-attachments/assets/380dac06-9e9d-41fb-819c-f97211539e45)
-![bar chart (1)](https://github.com/user-attachments/assets/0f31a175-5dd3-4028-9284-c143312fc9c7)
+![PIVOT TABLE](https://github.com/user-attachments/assets/63dcf62b-f831-4c78-9352-8ad6eb4f9dbb)
+
+![image](https://github.com/user-attachments/assets/81ac1973-2a74-4d16-ba60-7874c4f598ba)
+
+![image](https://github.com/user-attachments/assets/6c7f9682-f37d-43d7-8126-430d82cec63b)
+
 
 
      
